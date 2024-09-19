@@ -1,6 +1,7 @@
 # RJ-Tools-PY
- AC-Tools, Rebranded, with more stuff, on python
+AC-Tools, Rebranded, with more stuff, on python
 
+If you want to, you can go to the [original batchfile version](https://github.com/RJStudios/AC-Tools)
 # Setup
 1. Download the files from Releases tab
 2. Be sure you have the latest python version
