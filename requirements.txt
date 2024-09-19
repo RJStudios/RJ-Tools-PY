@@ -1,0 +1,7 @@
+pyttsx3
+pytest-shutil
+pip-custom-platform
+py-cpuinfo
+subprocess.run
+pillow
+tkintertable
