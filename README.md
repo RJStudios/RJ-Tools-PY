@@ -36,5 +36,4 @@ tkintertable
 ![image](https://github.com/user-attachments/assets/634c4247-b2d7-4721-b3ab-ff3cc7a1b83b)
 ![image](https://github.com/user-attachments/assets/c8267977-381a-42e0-a9aa-33e07286fe8b)
 ![image](https://github.com/user-attachments/assets/11c784bc-4370-4c5e-92b7-67fef0e473d2)
-![image](https://github.com/user-attachments/assets/2676fc18-51aa-4176-9908-82370c9e31e1)
-these are only some things out of everything that rjtools can do!
+
