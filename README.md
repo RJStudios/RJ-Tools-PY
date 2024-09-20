@@ -22,7 +22,7 @@ tkintertable
 ```
 
 # Setup
-1. Be sure you have ~~the latest python version~~ You need python 2 or later (3.11 is recomended - but works on 2)
+1. Be sure you have ~~the latest python version~~ -  You need python 2 or later (3.11 is recomended - but works on 2)
 2. Go on your terminal and cd into the folder you downloaded
 3. type `pip install -r requirements.txt`
 4. wait
