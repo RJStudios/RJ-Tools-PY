@@ -3,6 +3,9 @@ AC-Tools, Rebranded, with more stuff, on python
 
 If you want to, you can go to the [original batchfile version](https://github.com/RJStudios/AC-Tools)
 
+## Known Issues
+Calculator closes after trying to go back to main menu (idk how to solve that, fixing in later version)
+
 # Downloading
 You can either:
 1. Download from releases the zip or the files (separate)
@@ -13,12 +16,25 @@ This python program requires specific modules to be installed. You need to set t
 if you want to download them separately, or make the list yourself, here is the list of programs:
 ```
 pyttsx3
-pytest-shutil
-pip-custom-platform
+psutil
 py-cpuinfo
-subprocess.run
-pillow
-tkintertable
+Pillow
+qrcode
+requests
+speedtest-cli
+opencv-python-headless
+cryptography
+WordCloud
+textblob
+pyfiglet
+pygame
+pyperclip
+seaborn
+matplotlib
+pandas
+numpy
+scikit-learn
+pyzbar
 ```
 
 # Setup
